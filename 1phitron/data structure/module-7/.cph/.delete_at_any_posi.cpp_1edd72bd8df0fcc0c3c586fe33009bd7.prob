@@ -1,0 +1,1 @@
+{"name":"Local: delete_at_any_posi","url":"c:\\programming\\1phitron\\data structure\\module-7\\delete_at_any_posi.cpp","tests":[{"id":1751569242191,"input":"10 20 30 40 -1\n10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\programming\\1phitron\\data structure\\module-7\\delete_at_any_posi.cpp","group":"local","local":true}

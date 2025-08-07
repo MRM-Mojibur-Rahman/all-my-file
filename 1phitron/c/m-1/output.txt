@@ -1,0 +1,5 @@
+hola1 =10
+hola2 =20
+hola3 =30
+holaf =3.14
+holac =m
